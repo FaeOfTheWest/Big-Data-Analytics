@@ -1,4 +1,4 @@
-.vscode/settings.json
-.metals/metals.log
-.metals/metals.lock.db
-.metals/metals.mv.db
+.vscode/
+.metals/
+.scala-build/
+.bloop/
