@@ -1,0 +1,102 @@
+﻿student_id,department,score,status
+1001,CS,75,Pass
+1002,AI,48,Fail
+1003,IT,88,Pass
+1004,AI,97,Pass
+1005,AI,91,Pass
+1006,IT,35,Fail
+1007,AI,45,Fail
+1008,CS,71,Pass
+1009,CS,92,Pass
+1010,CS,97,Pass
+1011,Data Science,75,Pass
+1012,IT,85,Pass
+1013,Cybersecurity,79,Pass
+1014,Cybersecurity,83,Pass
+1015,Data Science,44,Fail
+1016,Data Science,78,Pass
+1017,CS,72,Pass
+1018,Cybersecurity,93,Pass
+1019,IT,74,Pass
+1020,CS,82,Pass
+1021,Cybersecurity,94,Pass
+1022,Software Engineering,46,Fail
+1023,Software Engineering,98,Pass
+1024,CS,89,Pass
+1025,AI,97,Pass
+1026,Software Engineering,68,Pass
+1027,Software Engineering,96,Pass
+1028,AI,38,Fail
+1029,AI,63,Pass
+1030,IT,41,Fail
+1031,Data Science,48,Fail
+1032,Data Science,89,Pass
+1033,Software Engineering,53,Fail
+1034,Software Engineering,64,Pass
+1035,CS,93,Pass
+1036,Data Science,95,Pass
+1037,Data Science,67,Pass
+1038,AI,86,Pass
+1039,Data Science,74,Pass
+1040,AI,96,Pass
+1041,Software Engineering,90,Pass
+1042,IT,72,Pass
+1043,Cybersecurity,36,Fail
+1044,CS,54,Fail
+1045,Data Science,93,Pass
+1046,AI,97,Pass
+1047,Cybersecurity,60,Pass
+1048,Cybersecurity,97,Pass
+1049,Software Engineering,98,Pass
+1050,Software Engineering,39,Fail
+1051,Cybersecurity,75,Pass
+1052,Software Engineering,47,Fail
+1053,Software Engineering,68,Pass
+1054,Software Engineering,58,Fail
+1055,Software Engineering,96,Pass
+1056,CS,69,Pass
+1057,Software Engineering,82,Pass
+1058,CS,59,Fail
+1059,Data Science,87,Pass
+1060,IT,92,Pass
+1061,CS,46,Fail
+1062,CS,92,Pass
+1063,AI,45,Fail
+1064,AI,60,Pass
+1065,IT,50,Fail
+1066,AI,40,Fail
+1067,AI,69,Pass
+1068,Data Science,80,Pass
+1069,IT,35,Fail
+1070,Cybersecurity,97,Pass
+1071,Data Science,52,Fail
+1072,AI,63,Pass
+1073,Software Engineering,51,Fail
+1074,AI,72,Pass
+1075,CS,88,Pass
+1076,Data Science,55,Fail
+1077,IT,74,Pass
+1078,AI,87,Pass
+1079,Software Engineering,54,Fail
+1080,AI,60,Pass
+1081,Software Engineering,36,Fail
+1082,CS,84,Pass
+1083,CS,41,Fail
+1084,Cybersecurity,80,Pass
+1085,CS,38,Fail
+1086,AI,95,Pass
+1087,Cybersecurity,73,Pass
+1088,Software Engineering,76,Pass
+1089,CS,98,Pass
+1090,Software Engineering,56,Fail
+1091,IT,61,Pass
+1092,Software Engineering,78,Pass
+1093,Software Engineering,64,Pass
+1094,Data Science,43,Fail
+1095,AI,86,Pass
+1096,CS,60,Pass
+1097,Data Science,57,Fail
+1098,CS,41,Fail
+1099,Software Engineering,59,Fail
+1100,Software Engineering,37,Fail
+,,,
